@@ -1,3 +1,10 @@
+GUI-lite without the ip address tracer
+
+Dependencies:
+- Removed all the curl commands that collects your ip address (sync build.sh, etc)
+- Just use GuiLite.h in the local directory
+- Also check out this: https://www.keil.com/dd2/pack/#!#eula-container
+
 # Welcome to GUI-lite
 <p align="center">
     <img src="documents/logo.png" alt="Logo"/>
